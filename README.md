@@ -1,4 +1,4 @@
-# sourcesync-android-example-minimal
+# Minimal example application using SourceSync's native SDK
 A minimal example app that consists of only a player and loading a distribution.
 
 # Getting started
