@@ -22,14 +22,14 @@ SourceSync.setup(context, "app.v1.demo")
 ```
 
 ## Using a different video
-You can switch the video used with your own. This is on line 53:
+You can switch the video used with your own. This is on line 70:
 
 ```kotlin
 val videoUri = Uri.parse("http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4")
 ```
 
 ## Using a different distribution
-You can switch the distribution loaded with your own. This is on line 64:
+You can switch the distribution loaded with your own. This is on line 81:
 
 ```kotlin
 val distribution = sourceSync.getDistribution("41508")
